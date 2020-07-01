@@ -28,17 +28,18 @@
   color: #61dafb;
 }
 
-.circle {
-	width: 80px;
-  height: 80px;
+.circle, .button {
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   background: skyblue;
   text-align: center;
-  line-height: 80px;
+  line-height: 200px;
 }
 
-#timer {
-	font-weight: bold;
+.timer {
+  font-size: 36px;
+  font-weight: bold;
 }
 
 
